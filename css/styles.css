@@ -1,0 +1,76 @@
+.row-header {
+    margin: 0px auto;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    /* line-height: 100px; */
+    min-height: 400px;
+}
+
+.footer {
+    background-color: thistle;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+
+}
+.address {
+    color: black;
+    font-size: 80%;
+    margin: 0px; 
+}
+
+.jumbotron {
+    background-color: mediumpurple;
+    color: floralwhite;
+}
+
+body {
+     padding: 50px 0px 0px 0px;
+     z-index: 0;
+}
+
+.navbar-dark {
+     background-color: blueviolet;
+}
+form {
+    font-weight: bold;
+    font-size: 15px;
+  
+  }
+  .tab-content {
+       border-left: 1px solid #ddd;
+       border-right: 1px solid #ddd;
+       border-bottom: 1px solid #ddd;
+       padding: 10px;
+  }
+  .carousel {
+       background: purple;
+  }
+  .carousel-item {
+     height: 300px;
+  }
+  .carousel-item img {
+      position: absolute;
+      top:0;
+      left:0;
+      min-height: 300px;
+  }
+
+  #carouselButton{
+      position: absolute;
+      right:0px;
+      bottom:0px;
+  }
+
+  .modal-header {
+    background: #512DA8; }
+    .modal-header .modal-title {
+      color: #ddd; }
+    .modal-header .close {
+      color: #ddd; }
+  
+  .modal-body {
+    background: #D1C4E9; }
+  
